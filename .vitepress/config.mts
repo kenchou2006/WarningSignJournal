@@ -4,12 +4,12 @@ export default defineConfig({
   root: './',
   base: '/WarningSignJournal/',
   title: "智慧定點式道路警示牌",
-  description: "工作日誌",
+  description: "研究日誌",
   lang: 'zh-Hant',
   cleanUrls: 'with-subfolders',
   themeConfig: {
     nav: [
-      { text: '工作日誌', link: '/' },
+      { text: '研究日誌', link: '/' },
       { text: '連結', link: '/link' },
     ],
     sidebar: [],
