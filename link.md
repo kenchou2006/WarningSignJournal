@@ -1,5 +1,5 @@
 # 專案連結
 
-- [伺服器](https://github.com/kenchou2006/WarningSign)
-- [Arduino](https://github.com/kenchou2006/WarningSignArduino)
-- [工作日誌](https://github.com/kenchou2006/WarningSignJournal)
+- [伺服器](https://github.com/WarningSign2025/Server)
+- [Arduino](https://github.com/WarningSign2025/Arduino)
+- [工作日誌](https://github.com/WarningSign2025/Journal)
