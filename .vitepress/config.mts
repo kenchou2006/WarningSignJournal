@@ -14,7 +14,7 @@ export default defineConfig({
     ],
     sidebar: [],
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/kenchou2006/WarningSign' }
+      { icon: 'github', link: 'https://github.com/WarningSign2025' }
     ],
   },
   head: [
