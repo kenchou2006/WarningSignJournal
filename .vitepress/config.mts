@@ -16,14 +16,6 @@ export default defineConfig({
     socialLinks: [
       { icon: 'github', link: 'https://github.com/kenchou2006/WarningSign' }
     ],
-    footer: {
-      message: "Released under the MIT License",
-      copyright: "Copyright © 2025-present Chou Kung Huan",
-    },
-    editLink: {
-      pattern: "https://github.com/kenchou2006/WarningSignJournal",
-      text: "在 GitHub 上編輯",
-    },
   },
   head: [
     ['link', { rel: 'icon', href: 'https://github.githubassets.com/favicons/favicon.svg', media: '(prefers-color-scheme: light)' }],
